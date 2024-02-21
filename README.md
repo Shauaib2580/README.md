@@ -16,15 +16,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/shauaib-siddique-shawon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shauaib-siddique-shawon" height="30" width="40" /></a>
-<a href="https://twitter.com/mdwemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdwemon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-wahiduzzaman-emon-51b559173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-wahiduzzaman-emon-51b559173" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16836455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16836455" height="30" width="40" /></a>
-<a href="https://fb.com/wahedemon09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wahedemon09" height="30" width="40" /></a>
-<a href="https://instagram.com/afianavro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afianavro" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shauaib-siddique-shawon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shauaib-siddique-shawon" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23442704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16836455" height="30" width="40" /></a>
+<a href="https://fb.com/shohan.thor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shohan.thor" height="30" width="40" /></a>
 </p>
 
-<a href="https://stackexchange.com/users/22663769/shauaib-siddique-shawon"><img src="https://stackexchange.com/users/flair/22663769.png" width="208" height="58" alt=" profile for Md Wahiduzzaman Emon on Stack Exchange, a network of free, community-driven Q&amp;A sites" title=" profile for Md Wahiduzzaman Emon on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<a href="https://stackexchange.com/users/23442704/shauaib-siddique-shawon"><img src="https://stackexchange.com/users/flair/22663769.png" width="208" height="58" alt=" profile for Shauaib Siddique Shawon on Stack Exchange, a network of free, community-driven Q&amp;A sites" title=" profile for Shauaib Siddique Shawon on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shauaib2580&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
