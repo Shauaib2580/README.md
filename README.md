@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shauaib2580&label=Profile%20views&color=0e75b6&style=flat" alt="Shauaib2580" /> </p>
 
-[![wakatime](https://wakatime.com/badge/user/b456dd8c-63a5-4990-85e5-f99e392d2937.svg)](https://wakatime.com/@b456dd8c-63a5-4990-85e5-f99e392d2937)
-
-<p align="left"> <a href="https://twitter.com/mdwemon" target="blank"><img src="https://img.shields.io/twitter/follow/mdwemon?logo=twitter&style=for-the-badge" alt="mdwemon" /></a> </p>
+[![wakatime](https://wakatime.com/badge/user/018dcd42-e66c-4852-a3b0-e2168e4d52c5.svg)](https://wakatime.com/@018dcd42-e66c-4852-a3b0-e2168e4d52c5)
 
 
 <!-- - 🌱 I’m currently focusing on Frontend-Development -->
