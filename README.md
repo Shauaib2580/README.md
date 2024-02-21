@@ -12,7 +12,7 @@
 
 - 💬 Ask me _Anything_
 
-- 📫 How to reach me *wahedemon09@gmail.com*
+- 📫 How to reach me *shauaibsiddique@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +21,7 @@
 <a href="https://fb.com/shohan.thor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shohan.thor" height="30" width="40" /></a>
 </p>
 
-<a href="https://stackexchange.com/users/23442704/shauaib-siddique-shawon"><img src="https://stackexchange.com/users/flair/22663769.png" width="208" height="58" alt=" profile for Shauaib Siddique Shawon on Stack Exchange, a network of free, community-driven Q&amp;A sites" title=" profile for Shauaib Siddique Shawon on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<a href="https://stackexchange.com/users/23442704/shauaib-siddique-shawon"><img src="https://stackexchange.com/users/flair/23442704.png" width="208" height="58" alt=" profile for Shauaib Siddique Shawon on Stack Exchange, a network of free, community-driven Q&amp;A sites" title=" profile for Shauaib Siddique Shawon on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shauaib2580&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
