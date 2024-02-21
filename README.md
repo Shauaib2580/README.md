@@ -40,7 +40,7 @@
 
 <br/>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zaman_emon&layout=compact&theme=algolia&include_all_commits=true&count_private=true&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shauaib2580&layout=compact&theme=algolia&include_all_commits=true&count_private=true&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
